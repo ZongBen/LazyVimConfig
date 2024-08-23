@@ -1,8 +1,5 @@
 return {
   "nvim-neo-tree/neo-tree.nvim",
-  keys = {
-    { "\\", ":Neotree reveal<CR>", { desc = "NeoTree reveal" } },
-  },
   opts = {
     event_handlers = {
       {
